@@ -4,7 +4,7 @@
 
 *.tar.gz
 coverage.txt
-/prometheus-webhook-dingtalk
+#/prometheus-webhook-dingtalk
 /config.yml
 
 /web/ui/static/react
